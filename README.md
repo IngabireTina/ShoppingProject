@@ -1,7 +1,7 @@
 # Zealous Shop <hr>
  Project Description<br>
-This project is a website which help clients to buy clothes online,<br>
-you can know the available clothes and buy them online.<br>
+This project is a website which help buying and selling the product online,<br>
+you can know the available clothes, bags, shoes,watches, etc and buy them online.<br>
 
 <hr>
  Project setup and installation instructions
@@ -16,11 +16,11 @@ you can know the available clothes and buy them online.<br>
 <hr>
 Contributors
 <ul>
-   <li>Beline Mugisha()</li>
-    <li>Sandrine Mfuranzima()</li>
-     <li>Clementine Ingabire()</li>
-      <li>Patience Cyuzuzo()</li>
-       <li>Ange Clairette Uwishema()</li>
+   <li>Beline Mugisha(https://github.com/Mugisha-Beline)</li>
+    <li>Sandrine Mfuranzima(https://github.com/sandrinemfuranzima)</li>
+     <li>Clementine Ingabire(https://github.com/IngabireTina)</li>
+      <li>Patience Cyuzuzo(https://github.com/Pcyuzuzo)</li>
+       <li>Ange Clairette Uwishema(https://github.com/Clairette-git)</li>
      
 </ul>
 <hr>
